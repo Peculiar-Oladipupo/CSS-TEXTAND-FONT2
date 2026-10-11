@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+        h1 {
+            color: black;
+            background-color: white;
+            text-align: center;
+        }
+
+        body {
+            background-color: wheat;
+        }
+    
